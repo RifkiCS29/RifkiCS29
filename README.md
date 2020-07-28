@@ -1,16 +1,16 @@
-### Hi there 👋
+# Web and Android Programmer 👋
 
-<!--
-**RifkiCS29/RifkiCS29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Rifki. I live in Muara Badak, East Borneo, Indonesia. I'm Web Developer with PHP (Laravel or CodeIgniter) and Android Developer with Kotlin. You can see my portfolio in this site
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Github Performance Overall
+
+![github stats](https://github-readme-stats.vercel.app/api?username=RifkiCS29&show_icons=true)
+
+# Current activity
+
+- 🌱 I’m currently learning Kotlin in Dicoding, please see my profile https://www.dicoding.com/users/281768
+- 🤔 I graduated from Computer Science in Mulwarman University
+- 📫 Please email rifkipelajar@gmail.com to Hire me.
+
+Thank You
