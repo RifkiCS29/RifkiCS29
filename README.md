@@ -1,4 +1,4 @@
-# Junior Web and Android Programmer 👋
+# Junior Web and Android Programmer 
 
 Hi, I'm Rifki. I live in Muara Badak, East Borneo, Indonesia. I'm Web Developer with PHP (Laravel or CodeIgniter) and Android Developer with Kotlin. You can see my portfolio in this site
 
