@@ -5,7 +5,9 @@ Hi, I'm Rifki. I live in Muara Badak, East Borneo, Indonesia. I'm Web Developer 
 
 # Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=RifkiCS29&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=RifkiCS29&show_icons=true&theme=radical)
+
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiCS29&layout=compact&theme=nightowl)
 
 # Current activity
 
