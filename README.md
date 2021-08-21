@@ -1,6 +1,6 @@
-# Web and Android Programmer 👋
+# Laravel | Kotlin | FLutter 👋
 
-Hi, I'm Rifki. I live in Muara Badak, East Borneo, Indonesia. I'm Web Developer with PHP (Laravel or CodeIgniter) and Android Developer with Kotlin. You can see my portfolio in this site
+Hi, I'm Rifki. I live in Muara Badak, East Borneo, Indonesia. I'm Web Developer with PHP (Laravel), Android Developer with Kotlin annd Cross Platform (Android & IOS) with Flutter. You can see my portfolio in this site
 
 
 # Github Performance Overall
