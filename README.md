@@ -1,4 +1,4 @@
-# Laravel | Kotlin | Flutter 👋
+# Flutter | Kotlin | Laravel 👋
 
 Hi, I'm Rifki. I live in Muara Badak, East Borneo, Indonesia. I'm Web Developer with PHP (Laravel), Android Developer with Kotlin annd Cross Platform (Android & IOS) with Flutter. You can see my portfolio in this site
 
@@ -11,7 +11,7 @@ Hi, I'm Rifki. I live in Muara Badak, East Borneo, Indonesia. I'm Web Developer 
 
 # Current activity
 
-- 🌱 I’m currently learning Kotlin in Dicoding, please see my profile https://www.dicoding.com/users/281768
+- 🌱 I’m currently learning Kotlin and Flutter in Dicoding, please see my profile https://www.dicoding.com/users/281768
 - 🤔 I graduated from Computer Science in Mulwarman University
 - 📫 Please email rifkipelajar@gmail.com to Hire me.
 
