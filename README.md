@@ -1,6 +1,6 @@
 # Flutter | Kotlin | Mobile Developer 👋
 
-Hi, I'm Rifki. I live in Muara Badak, East Borneo, Indonesia. I'm Web Developer with PHP (Laravel), Android Developer with Kotlin annd Cross Platform (Android & IOS) with Flutter. You can see my portfolio in this site
+I am mobile developer with 2 years experiences implement Flutter with clean architecture and unit testing. I have been actively involved in Android and iOS development with Flutter, successfully created user friendly and innovative mobile applications for both platforms. My proficiency in Scrum and Agile methodologies has allowed me to efficiently manage projects, collaboration, adaptability, and customer oriented throughout the development process.
 
 
 # Github Performance Overall
@@ -11,8 +11,7 @@ Hi, I'm Rifki. I live in Muara Badak, East Borneo, Indonesia. I'm Web Developer 
 
 # Current activity
 
-- 🌱 I’m currently learning Kotlin and Flutter in Dicoding, please see my profile https://www.dicoding.com/users/281768
-- 🤔 I graduated from Computer Science in Mulwarman University
+- 🌱 I’m currently working in Sinarmas Multifinance.
 - 📫 Please email rifkipelajar@gmail.com to Hire me.
 
 Thank You
