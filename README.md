@@ -1,4 +1,4 @@
-# Flutter | Kotlin | Mobile Developer 👋
+# Flutter | Mobile Developer 👋
 
 I am mobile developer with 2 years experiences implement Flutter with clean architecture and unit testing. I have been actively involved in Android and iOS development with Flutter, successfully created user friendly and innovative mobile applications for both platforms. My proficiency in Scrum and Agile methodologies has allowed me to efficiently manage projects, collaboration, adaptability, and customer oriented throughout the development process.
 
