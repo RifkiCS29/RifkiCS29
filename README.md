@@ -11,7 +11,7 @@ I am mobile developer with 3+ years experiences implement Flutter with clean arc
 
 # Current activity
 
-- 🌱 I’m currently working in Sinarmas Multifinance.
+- 🌱 I’m currently working in Japfa Comfeed Indonesia.
 - 📫 Please email rifkipelajar@gmail.com to Hire me.
 
 Thank You
