@@ -1,6 +1,6 @@
 # Flutter | Mobile Developer 👋
 
-I am mobile developer with 3+ years experiences implement Flutter with clean architecture and unit testing. I have been actively involved in Android and iOS development with Flutter, successfully created user friendly and innovative mobile applications for both platforms. My proficiency in Scrum and Agile methodologies has allowed me to efficiently manage projects, collaboration, adaptability, and customer oriented throughout the development process.
+I am a Mobile Developer with over 3 years of experience specializing in Flutter, clean architecture, and unit testing. I have successfully developed innovative and user-friendly mobile applications for Android and iOS platforms, delivering high-performance applications according user needs. My skills include state managements, API integration, responsive UI design, and performance optimization. With expertise in building scalable and maintainable codebases, I applied Scrum and Agile methodologies to ensure efficient project management, collaboration, and adaptability. Passionate about creating impactful digital experiences, I excel in aligning technical solutions with business goals while maintaining a customer-oriented approach throughout the development lifecycle.
 
 
 # Github Performance Overall
