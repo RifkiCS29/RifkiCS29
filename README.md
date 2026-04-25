@@ -11,7 +11,7 @@ I am a Mobile Developer with over 4 years of experience specializing in Flutter,
 
 # Current activity
 
-- 🌱 I’m currently working in Japfa Comfeed Indonesia.
+- 🌱 I’m currently working in PT. Intikom Berlian Mustika.
 - 📫 Please email rifkipelajar@gmail.com to Hire me.
 
 Thank You
