@@ -2,16 +2,20 @@
 
 I am a Mobile Developer with over 4 years of experience specializing in Flutter, clean architecture, and unit testing. I have successfully developed innovative and user-friendly mobile applications for Android and iOS platforms, delivering high-performance applications according to user needs. My skills include state management, API integration, responsive UI design, and performance optimization. With expertise in building scalable and maintainable codebases, I applied Scrum and Agile methodologies to ensure efficient project management, collaboration, and adaptability. Passionate about creating impactful digital experiences, I excel in aligning technical solutions with business goals while maintaining a customer-oriented approach throughout the development lifecycle.
 
+## 📈 GitHub Stats
 
-# Github Performance Overall
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RifkiCS29&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiCS29&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=RifkiCS29&show_icons=true&theme=radical)
-
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiCS29&layout=compact&theme=nightowl)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RifkiCS29&theme=tokyonight&hide_border=true"/>
+</p>
 
 # Current activity
 
-- 🌱 I’m currently working in PT. Intikom Berlian Mustika.
+- 🌱 I’m currently working in Partai Perindo.
 - 📫 Please email rifkipelajar@gmail.com to Hire me.
 
 Thank You
